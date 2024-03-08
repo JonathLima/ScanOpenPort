@@ -25,13 +25,13 @@ cargo build
 Run the program with the desired IP address as an argument:
 
 ```console
-cargo run -- <IP>
+cargo run <IP>
 ```
 Replace <IP> with the IP address you want to check.
 
 Example
 ```console
-cargo run -- 192.168.0.1
+cargo run 192.168.0.1
 ``` 
 This command will run the port scanner on the 192.168.0.1 IP address.
 
