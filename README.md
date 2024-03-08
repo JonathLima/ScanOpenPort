@@ -9,15 +9,13 @@ Clone this repository to your local machine:
 ```console
 git clone https://github.com/JonathLima/scanner-open-ports.git
 ```
-Navigate to the project directory:
 
+Navigate to the project directory:
 
 ```console
 cd scanner-open-ports
 ```
 Build the project using Cargo:
-
-
 
 ```console
 cargo build
@@ -29,7 +27,7 @@ cargo run <IP>
 ```
 Replace <IP> with the IP address you want to check.
 
-Example
+Example:
 ```console
 cargo run 192.168.0.1
 ``` 
@@ -39,4 +37,4 @@ Contributing
 Feel free to contribute to this project. You can open issues or submit pull requests with improvements or fixes.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) for details.
