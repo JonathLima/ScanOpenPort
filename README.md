@@ -7,7 +7,7 @@ Make sure you have Rust installed on your machine. You can install it from the o
 Clone this repository to your local machine:
 
 ```console
-git clone https://github.com/your-username/scanopenport.git
+git clone https://github.com/JonathLima/ScanOpenPort.git
 ```
 Navigate to the project directory:
 
