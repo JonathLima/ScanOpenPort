@@ -1,4 +1,4 @@
-Rust Portscanner
+# Rust Portscanner
 This is a simple port scanner written in Rust. It is developed to aid in identifying open ports on a given IP address.
 
 How to Use
@@ -6,22 +6,33 @@ Make sure you have Rust installed on your machine. You can install it from the o
 
 Clone this repository to your local machine:
 
-```git clone https://github.com/your-username/scanopenport.git```
+```console
+git clone https://github.com/your-username/scanopenport.git
+```
 Navigate to the project directory:
 
-bash
-```cd scanopenport```
+
+```console
+cd scanopenport
+```
 Build the project using Cargo:
 
 
-```cargo build```
+
+```console
+cargo build
+```
 Run the program with the desired IP address as an argument:
 
-```cargo run -- <IP>```
+```console
+cargo run -- <IP>
+```
 Replace <IP> with the IP address you want to check.
 
 Example
-```cargo run -- 192.168.0.1```
+```console
+cargo run -- 192.168.0.1
+``` 
 This command will run the port scanner on the 192.168.0.1 IP address.
 
 Contributing
