@@ -7,13 +7,13 @@ Make sure you have Rust installed on your machine. You can install it from the o
 Clone this repository to your local machine:
 
 ```console
-git clone https://github.com/JonathLima/ScanOpenPort.git
+git clone https://github.com/JonathLima/scanner-open-ports.git
 ```
 Navigate to the project directory:
 
 
 ```console
-cd scanopenport
+cd scanner-open-ports
 ```
 Build the project using Cargo:
 
